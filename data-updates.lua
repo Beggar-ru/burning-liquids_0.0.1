@@ -1,3 +1,4 @@
+require("prototypes.technologies")
 if data.raw.technology["flammable-liquids"] then 
     local burning_liquids_technology = data.raw.technology["burning-liquids-technology"]
 
