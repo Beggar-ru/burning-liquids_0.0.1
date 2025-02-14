@@ -3,8 +3,8 @@ data:extend({
         type = "int-setting",
         name = "burning-liquids-fluid-rate",
         setting_type = "startup",
-        default_value = 100,
-        minimum_value = 1,
+        default_value = 150,
+        minimum_value = 100,
     },
     {
         type = "int-setting",
